@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+live.ipms247.com	TRUE	/	FALSE	1999999999	AWSALB	7y/KGAh6UzXQfH5Qh/Y6XHzL3K0DTC6u/0Fl2wPe2w8BjhuFj3WbAe33EKMWm1d4+0ivXD+oUhVvXIToo8cjf1L8GnPTepshPneZ4/qVL4h5HLIsx0qqquDX05eL
+live.ipms247.com	TRUE	/	FALSE	1999999999	AWSALBCORS	7y/KGAh6UzXQfH5Qh/Y6XHzL3K0DTC6u/0Fl2wPe2w8BjhuFj3WbAe33EKMWm1d4+0ivXD+oUhVvXIToo8cjf1L8GnPTepshPneZ4/qVL4h5HLIsx0qqquDX05eL
+live.ipms247.com	TRUE	/	FALSE	1999999999	SameSite	None
+
